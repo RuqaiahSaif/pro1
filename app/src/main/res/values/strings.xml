@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+   <string name="name">name_student</string>
+    <string name="id">id_student</string>
+    <string name="pass">pass</string>
+    <string name="faild">faild</string>
+</resources>
